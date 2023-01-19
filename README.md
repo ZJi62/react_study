@@ -27,3 +27,9 @@
 ## [13장](https://github.com/euni62/react_study/blob/master/13_arrangement_delete.md)
 
 ## [14장](https://github.com/euni62/react_study/blob/master/14_arrangement_edit.md)
+
+## [14장 추가](https://github.com/euni62/react_study/blob/master/14_plus_why_hook.md)
+
+## [15장](https://github.com/euni62/react_study/blob/master/15_useEffect.md)
+
+## [16장](https://github.com/euni62/react_study/blob/master/16_useMemo.md)
