@@ -198,7 +198,7 @@ JSX 내부에서 주석을 작성할 때에는 `{/* */}`를 사용
 
 추가적으로, 열리는 태그 내부에서는 `// 이런 형태로도` 주석 작성이 가능
 
-## App.js
+### App.js
 
 ```jsx
 import React from 'react';
@@ -230,3 +230,5 @@ function App() {
 
 export default App;
 ```
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)

@@ -80,3 +80,5 @@ export default InputSample;
 ```
 
 input의 상태를 관리할 때에는 input 태그의 `value`값을 설정해주는 것이 중요 -> 상태가 바뀌었을 때 input의 내용도 업데이트 됨
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)

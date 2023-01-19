@@ -122,3 +122,5 @@ export default App;
 `useRef()` 를 사용할 때 파라미터를 넣어주면, 이 값이 `.current` 값의 기본값이 됨
 
 그리고 이 값을 수정할 때에는 `.current` 값을 수정하면 되고 조회할 때에는 `.current`를 조회하면 됨
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)

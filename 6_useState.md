@@ -194,3 +194,5 @@ export default Counter;
 ```
 
 `onIncrease` 와 `onDecrease` 에서 `setNumber` 을 사용할 때 그 다음 상태를 파라미터로 넣어준 것이 아니라, 값을 업데이트 하는 함수를 파라미터로 넣어줌
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)

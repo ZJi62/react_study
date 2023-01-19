@@ -70,3 +70,5 @@ export default InputSample;
 `useRef()` 를 사용하여 `ref` 객체를 만들고, 이 객체를 우리가 선택하고 싶은 DOM에 `ref` 값으로 설정해주어야 함 -> ref 객체의 `.current` 값은 우리가 원하는 DOM을 가르키게 됨
 
 위 예제에서는 `onReset` 함수에서 input 에 포커스를 하는 `focus()` DOM API를 호출
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)

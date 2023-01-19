@@ -291,3 +291,5 @@ array.map(item => <div key={item.id}>{item.text}</div>);
 ![key2](https://i.imgur.com/yEUS6Bx.gif)
 
 따라서 배열을 렌더링 할 때에는 고유한 `key` 값이 있는 것이 중요하며, 만약 배열 안에 중복되는 `key`가 있을 땐 렌더링 시에 오류메시지가 콘솔에 나타나게 되며, 업데이트가 제대로 이루어지지 않게 됨
+
+[출처-벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
