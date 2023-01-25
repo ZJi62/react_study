@@ -30,10 +30,10 @@
 
 ## [15장](https://github.com/euni62/react_study/blob/master/15_useEffect.md)
 
-## [15장 추가] (https://github.com/euni62/react_study/blob/master/md/15_plus_why_hook.md)
+## [15장 추가](https://github.com/euni62/react_study/blob/master/md/15_plus_why_hook.md)
 
 ## [16장](https://github.com/euni62/react_study/blob/master/16_useMemo.md)
 
-## [17장] (https://github.com/euni62/react_study/blob/master/md/17_useCallback.md)
+## [17장](https://github.com/euni62/react_study/blob/master/md/17_useCallback.md)
 
-## [18장] (https://github.com/euni62/react_study/blob/master/md/18_react_memo.md)
+## [18장](https://github.com/euni62/react_study/blob/master/md/18_react_memo.md)
