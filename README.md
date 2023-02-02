@@ -37,3 +37,15 @@
 ## [17장](https://github.com/euni62/react_study/blob/master/md/17_useCallback.md)
 
 ## [18장](https://github.com/euni62/react_study/blob/master/md/18_react_memo.md)
+
+## [19장](https://github.com/euni62/react_study/blob/master/md/19_useReducer.md)
+
+## [20장](https://github.com/euni62/react_study/blob/master/md/20_custom_hook.md)
+
+## [21장](https://github.com/euni62/react_study/blob/master/md/21_contextAPI.md)
+
+## [22장](https://github.com/euni62/react_study/blob/master/md/22_immer.md)
+
+## [23장](https://github.com/euni62/react_study/blob/master/md/23_class_component.md)
+
+## [24장](https://github.com/euni62/react_study/blob/master/md/24_lifecycle_method.md)
